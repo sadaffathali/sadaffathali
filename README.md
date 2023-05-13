@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Experienced Front End Developer. Skilled in software engineering, I strive to learn and expand my knowledge further in the field of programming. My passion for user experience led me to learn about SEO and UX and I also have a brief history of working in the marketing and advertising industry which I was really glad to be a part of.
+I am a Front-end Developer with 5+ years of experience with a proven track record of success in building high-quality, user-friendly web applications. I have a strong understanding of the Vue framework and am proficient in other front-end technologies, such as Typescript, Nuxt, TailwindCss, Graphql, React, etc. I am also an SEO specialist with expertise in technical SEO. I have a deep understanding of how search engines work and how to optimize websites for search results.
+
+I am passionate about working with good teams and businesses. I believe that the best work is done when people are passionate about what they do and are working towards a common goal. I am eager to contribute to the success of your team and business.
+
+I am always striving to learn new things and improve my skills. I am confident that I can be a valuable asset to your team.
 
 
 ## 🌐 Socials:
